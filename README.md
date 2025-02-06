@@ -26,5 +26,6 @@ java Main
 ```
 
 🚀 About the Developer
-Created by Le Hoang Long Nguyen – A college student want to become a software engineer
+Created by Le Hoang Long Nguyen (Long Nguyen) – A college student wants to become a software engineer
+
 🔗 GitHub: longthannga
